@@ -4,13 +4,13 @@
 Webpage for classification of images of fruits and vegetables into fresh or rotten made using Convolutional neural networks in python ,tensorflow and keras 
 
 
-Link - https://share.streamlit.io/shreyasvaidya/fresh-or-rotten/main/app.py
+Link - https://share.streamlit.io/ed-annadanam/fresh-or-rotten/main/app.py
 
-Code for training saved_model.h5 can be found at https://github.com/Shreyasvaidya/Fresh-rotten_Classifier
+Code for training saved_model.h5 can be found at https://github.com/ED-Annadanam/Fresh-rotten_Classifier
 
 Developed as a  part of the Engineering Design project website "Annadanam"
 
-Team members(Who also worked on other parts of the website)
+Team members
 
 1.Samarth Sudhirkumar Bhalerao
 
