@@ -8,23 +8,6 @@ Link - https://share.streamlit.io/ed-annadanam/fresh-or-rotten/main/app.py
 
 Code for training saved_model.h5 can be found at https://github.com/ED-Annadanam/Fresh-rotten_Classifier
 
-Developed as a  part of the Engineering Design project website "Annadanam"
-
-Team members
-
-1.Samarth Sudhirkumar Bhalerao
-
-2.Vikash Kumar
-
-3.Uppala Giridhar
-
-4.Basanti Meena
-
-5.Saurabh kumar Meena
-
-6.Vaidehi  Bala(was a part of the team in the first semester,was an integral contributor in ideation)
-
-
 **Credits**
 Instructors
 
