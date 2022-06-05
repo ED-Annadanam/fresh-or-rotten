@@ -9,12 +9,14 @@ Link - https://share.streamlit.io/ed-annadanam/fresh-or-rotten/main/app.py
 Code for training saved_model.h5 can be found at https://github.com/ED-Annadanam/Fresh-rotten_Classifier
 
 **Credits**
+
 Instructors
 
 1.Dr.Manish Narwaria(narwaria@iitj.ac.in)
 
 2.Dr.Sucharita Dey(sdey@iitj.ac.in)
 
+Dataset from https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables
 
 https://youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN used For learning how to train a deep learning model
 
