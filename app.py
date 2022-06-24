@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 
 st.title("Image Classification of select fruits and vegetables")
-st.header("only orange,banana,apple,tomato,bitter guard, capsicum allowed at present")
+st.header("only orange,banana,apple,tomato,bitter guard, and capsicum are allowed")
 st.text("Upload a clear image of fruit or vegetable ")
 from image_classification import machine_classification 
 uploaded_file = st.file_uploader("Enter image", type=["png","jpeg","jpg"])
